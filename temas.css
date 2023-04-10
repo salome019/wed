@@ -14,9 +14,10 @@
     width: 100%;
     height: 50px;
     background-color: cornflowerblue;
+    display: flex;
 }
 .contenedor2{
-    width: 100%;
+    width: 120%;
     height: 1000px;
     background-color: darkcyan;
     display: flex;
@@ -39,7 +40,36 @@
     height: 1000px;
     background-color: dodgerblue;
 }
-
+.tecnologia{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.sociales{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.biologia{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.matematicas{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
+.ingles{
+    width: 100px;
+    height: 48px;
+    background-color: azure;
+    margin: 2px;
+}
 
 
 

@@ -26,19 +26,21 @@
   width: 20%;  
   height: 1000px;
   background-color: rgb(102, 65, 236);
-  color: azure;
+  color: rgb(242, 247, 247);
   text-align: center;
   font-size: 25px;
 }
 .centro{
     width: 60%;
-    height: 1000px;
-    background-color: darkslateblue;
+    height: 1001px;
+    background-color: rgb(16, 213, 219);
+    margin: 2px;
 }
 .derecha{
     width: 20%;
     height: 1000px;
-    background-color: dodgerblue;
+    background-color: rgb(238, 241, 243);
+    margin: 2px;
 }
 .tecnologia{
     width: 100px;
@@ -64,12 +66,7 @@
     background-color: azure;
     margin: 2px;
 }
-.ingles{
-    width: 100px;
-    height: 48px;
-    background-color: azure;
-    margin: 2px;
-}
+
 
 
 

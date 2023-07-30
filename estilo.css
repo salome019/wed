@@ -19,7 +19,7 @@
     }
     .fondosociales{
     
-        background-image: url("yoshi1.webp");
+        background-image: url("coloniasamericanas.jpg");
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -73,7 +73,7 @@
     }
     .contenido{
 
-        height: 280px;
+        height: 300px;
         
         width: 100%;
         
@@ -95,13 +95,13 @@
         
         float:left;
         
-        height: 200px;
+        height: 270px;
         
-        width: 260px;
+        width: 270px;
         
-        margin-left: 5px;
+        margin-left: 30px;
         
-        margin-right:5px;
+        margin-right:10px;
         
         background-image: url("imagen2.jfif");
         
@@ -113,9 +113,10 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgba(1, 90, 255, 0.952);
         
-        font-size: 20px;
+        font-size: 15px;
+        
         
         
         
